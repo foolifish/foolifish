@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Mr. Yu welcomes you here. If you found the digital me, good job!
+
 <!--
 **foolifish/foolifish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
